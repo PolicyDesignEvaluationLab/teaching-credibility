@@ -28,7 +28,7 @@ Suggestions for making this material more interactive include:
 ### Assignments
 Suggested assignments include:
 - **Replicating a paper:** Have students replicate a paper following the methods in *Solutions III: Analysis, prepping files for replication*, and report whether or not it replicates and what issues they had. The assignment could also include tweaking or extending the original models to illustrate researcher degrees of freedom, or analyzing a sample of the original data to see if it replicates the results of the full dataset.
-- **Analyzing an instructor provided dataset.** Give all students the same dataset and ask them to develop an appropriate model to test an instructor-provided hypotheses, submitting their code and results. Aggregating the results across the class will illustrate researcher degrees of freedom in action (assuming they don't share their code :)).
+- **Analyzing an instructor provided dataset.** Give all students the same dataset and ask them to develop an appropriate model to test an instructor-provided hypothesis, submitting their code and results. Aggregating the results across the class will illustrate researcher degrees of freedom in action (assuming students don't share code :)).
 - **Reviewing a potential journal article.** Have students review a working paper and submit a short write-up regarding why it should be accepted/rejected. Students could be directed to pay specific attention to the author's choices (degrees of freedom) and how these may have affected the results. The paper could also be censored for some/all of the class (like "design-based publication") to hide the results, forcing the reviewers to assess the paper on theory and design only.
 
 ## Folder Contents
