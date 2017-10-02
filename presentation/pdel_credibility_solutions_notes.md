@@ -1,5 +1,5 @@
 # PRESENTER NOTES—How to improve the credibility of (your) social science: A practical guide for researchers
-*These notes accompany the `pdel_credibility_solutions.tex` slides, a teaching module for graduate-level social sciences methods courses  (available online at PDEL's [GitHub page](https://github.com/PolicyDesignEvaluationLab/Transparency-Initiative)).*
+*These notes accompany the `pdel_credibility_solutions.tex` slides, a teaching module for graduate-level social sciences methods courses  (available online at PDEL's [GitHub page](https://github.com/PolicyDesignEvaluationLab/teaching-credibility/)).*
 
 - *The structure of the notes parallels the slides; each second-level header is a beamer section, each third-level header is a subsection, and each fourth-level header is a frame.*
 - *Frame titles begin with a `">"` symbol.*
