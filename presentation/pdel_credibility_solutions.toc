@@ -1,0 +1,22 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{The Problem}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{1. ``Replication Crisis"}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{2. Publication Bias}{13}{0}{1}
+\beamer@subsectionintoc {1}{4}{3. P-hacking---AKA fishing, data mining, specification searching, etc.}{18}{0}{1}
+\beamer@subsectionintoc {1}{5}{4. Misconduct \& Fraud}{22}{0}{1}
+\beamer@subsectionintoc {1}{6}{But all hope is not lost ...}{25}{0}{1}
+\beamer@sectionintoc {2}{Solutions I: Design}{28}{0}{2}
+\beamer@subsectionintoc {2}{1}{1. Registration}{30}{0}{2}
+\beamer@subsectionintoc {2}{2}{2. Pre-Analysis Plan}{35}{0}{2}
+\beamer@subsectionintoc {2}{3}{[IRB]}{44}{0}{2}
+\beamer@sectionintoc {3}{Solutions II: Analysis}{46}{0}{3}
+\beamer@subsectionintoc {3}{1}{3. File Management}{48}{0}{3}
+\beamer@subsectionintoc {3}{2}{4. Literate Programming}{52}{0}{3}
+\beamer@subsectionintoc {3}{3}{5. Version Control}{58}{0}{3}
+\beamer@subsectionintoc {3}{4}{[Dynamic Docs]}{83}{0}{3}
+\beamer@sectionintoc {4}{Solutions III: Dissemination}{85}{0}{4}
+\beamer@subsectionintoc {4}{1}{6. Prepare for Replication}{87}{0}{4}
+\beamer@subsectionintoc {4}{2}{7. Share Data and Code}{111}{0}{4}
+\beamer@subsectionintoc {4}{3}{8. Meta-Analysis}{114}{0}{4}
+\beamer@sectionintoc {5}{Extra}{121}{0}{5}
