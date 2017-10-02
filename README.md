@@ -1,7 +1,7 @@
 # About this Project
 These files are part of a teaching module developed by the Policy Design and Evaluation Lab ([PDEL](https://pdel.ucsd.edu/)) at UCSD. The module is intended for use in graduate-level social science methodology courses—including those in political science, economics, sociology, and psychology—at UCSD and beyond. It covers the main causes of the credibility crisis in social science, as well as practical solutions for individual researchers to address these issues in their own work.
 
-All materials are available online at PDEL's [GitHub page](https://github.com/PolicyDesignEvaluationLab/Transparency-Initiative). Funding for this project was generously provided by the Berkeley Initiative for Transparency in the Social Sciences [BITSS](http://www.bitss.org/) through a [Catalyst Grant](http://www.bitss.org/catalysts).
+All materials are available online at PDEL's [GitHub page](https://github.com/PolicyDesignEvaluationLab/Transparency-Initiative). Funding for this project was generously provided by the Berkeley Initiative for Transparency in the Social Sciences ([BITSS](http://www.bitss.org/)) through a [Catalyst Grant](http://www.bitss.org/catalysts).
 
 ## Material
 The goal of this module is to (1) convince researchers that there is a credibility crisis in the social sciences, due to a variety of incentives and practices at both the disciplinary and individual level, and (2) provide practical steps for researchers to improve the credibility of their work throughout the lifecycle of a project.
