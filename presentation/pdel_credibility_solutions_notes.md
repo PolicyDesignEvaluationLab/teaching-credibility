@@ -34,7 +34,7 @@ Let's walk through the four main symptoms of these discipline- and researcher-le
 
 ### 1. "Replication Crisis"
 #### > Social, behavioral, and medical studies often don't replicate
-Failure to replicate should mean that the original results were due to random chance. Unfortunately, however, they are often due to
+Ideally, failure to replicate would mean that the original results were due to random chance, or don't hold up to alternative samples, specifications, etc. Unfortunately, however, replication failures are often due to
 - **A lack of transparency**—results can't replicate when complete code and data are not shared
 - **Errors in data and code**—often times a 'failure to replicate' is caused by silly errors, like a missing package, or failure to copy and pasted updated regression outputs into a paper draft
 - In some cases, studies don't replicate because the **results were fabricated or  manipulated**
