@@ -4,7 +4,7 @@ These files are part of a teaching module developed by the Policy Design and Eva
 All materials are available online at PDEL's [GitHub page](https://github.com/PolicyDesignEvaluationLab/teaching-credibility/). Funding for this project was generously provided by the Berkeley Initiative for Transparency in the Social Sciences ([BITSS](http://www.bitss.org/)) through a [Catalyst Grant](http://www.bitss.org/catalysts).
 
 ## Material
-The goal of this module is to (1) convince researchers that there is a credibility crisis in the social sciences, due to a variety of incentives and practices at both the disciplinary and individual levels, and (2) provide practical steps for researchers to improve the credibility of their work throughout the lifecycle of a project.
+The goal of this module is to (1) demonstrate the existence of a credibility crisis in the social sciences, caused by a variety of incentives and practices at both the disciplinary and individual levels, and (2) provide practical steps for researchers to improve the credibility of their work throughout the lifecycle of a project.
 
 ### Presentation
 The presentation ("`pdel_credibility_solutions.tex`") includes enough material for approximately six hours of instruction, and is divided into five parts:
